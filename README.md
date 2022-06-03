@@ -4,6 +4,12 @@ Projeto Cliente Servidor que modela o problema do menor valor único.
 
 ## Instruções
 
+### Mudar o diretório para o do servidor
+
+```bash
+cd back
+```
+
 ### Instale as Dependências:
 
 ```bash
