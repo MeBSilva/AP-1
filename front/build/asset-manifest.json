@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94601830.css",
+    "main.js": "/static/js/main.89d281e2.js",
+    "static/media/brasao_ufc.png": "/static/media/brasao_ufc.a20f40eebef8fcaed450.png",
+    "index.html": "/index.html",
+    "main.94601830.css.map": "/static/css/main.94601830.css.map",
+    "main.89d281e2.js.map": "/static/js/main.89d281e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94601830.css",
+    "static/js/main.89d281e2.js"
+  ]
+}
